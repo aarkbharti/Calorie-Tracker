@@ -1,3 +1,7 @@
+#Name- Aark Bharti
+#Roll no.- 2501350046
+#Course- B-Tech CSE (FSD)
+#Section- B
 print("Welcome to Daily Calorie Tracker!")
 print("Log your meals and see if you are within your daily calorie limit")
 print("="*50)
@@ -41,3 +45,4 @@ if save == "yes":
         file.write("Within daily limit!\n")
     file.close()
     print("Saved to calorie_log.txt")
+
